@@ -1,0 +1,19 @@
+{
+  "name": "temp_project",
+  "version": "1.0.0",
+  "description": "javascript backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "rishav_deploye"
+  ],
+  "author": "Rishav_sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
